@@ -2,8 +2,10 @@
 
 Hier erstmal die wichtigsten Infos zum Display:
 
-https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/
+https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r
+
 https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/#config-file-windows-pc
+
 https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/tree/main
 
 
