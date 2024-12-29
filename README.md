@@ -13,7 +13,7 @@ Hinweis:
 
 Bitte unbedingt die Einstellungen in der Arduino IDE und der Librarys beachten !
 Nicht alle aktuellen Librarys laufen problemlos. Die aufgeführten Versionsnummern bitte beachten.
-Die Einstellungen für das Display müssen vorgfälltig vorgenommen werden.
+Die Einstellungen für das Display müssen sorgfälltig vorgenommen werden.
 Sind an einer Arduino IDE gleichzeitig unterschiedliche Displays und ESPs angeschlossen, kann es zu Problemen kommen.
 
 Diese Anzeige kann natürlich auch für andere Inverter oder DTUs angepaßt werden. Dazu sind die entsprechenden Code für die Abfrage der JSON-Files entsprechend zu ändern.
